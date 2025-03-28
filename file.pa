@@ -1,11 +1,16 @@
-programme: creation d'un tableau etudiant(e);
-user:crt
+programme: carrateristiques d'un tableau etudiant(e);
+user:crt;
 var
 nometud:string;
 prenometud:string;
+identufiantetud:striing;
 ageetud:integer;
 specialitéetud:intring;
 annee scolaire:string;
+nom de l'université:string;
 moyenneetud:real;
 bugin
+writeln("entrer le nom");
+readln(nometud);
+
 

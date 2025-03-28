@@ -1,0 +1,6 @@
+algorithme: presentation d'une persnne;
+afficher("donnez le nom de la personne");
+saisie(nom);
+afficher("donnez le prenom de la personne");
+saisie(prenom);
+
