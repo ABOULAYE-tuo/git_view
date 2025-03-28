@@ -1,5 +1,13 @@
 public void classe()
 
-exemple publique chat{
+exemple publique chat {
+
+
+chat classe
+
+michou
+mimi
+gateau
+SSS
 
 

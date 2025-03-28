@@ -13,4 +13,6 @@ afficher("donnez le nom de la personne")
 saisie(nom)
 afficher("donnez le prenom de la personne")
 saisie(prenom)
+afficher("donner le paye de la pesrsonne")
+saisie(paye)
 

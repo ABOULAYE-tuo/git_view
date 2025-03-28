@@ -14,5 +14,5 @@ bugin
 
 writeln("entrer le nom");
 readln(nometud);
-
+writeln("entrer le prenom")
 
