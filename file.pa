@@ -1,0 +1,11 @@
+programme: creation d'un tableau etudiant(e);
+user:crt
+var
+nometud:string;
+prenometud:string;
+ageetud:integer;
+specialitéetud:intring;
+annee scolaire:string;
+moyenneetud:real;
+bugin
+
