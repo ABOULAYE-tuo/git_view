@@ -1,4 +1,4 @@
-programme: carrateristiques d'un tableau etudiant(e);
+programme: carracteristiques d'un tableau etudiant(e);
 user:crt;
 var
 nometud:string;
@@ -9,7 +9,9 @@ specialitéetud:intring;
 annee scolaire:string;
 nom de l'université:string;
 moyenneetud:real;
+
 bugin
+
 writeln("entrer le nom");
 readln(nometud);
 

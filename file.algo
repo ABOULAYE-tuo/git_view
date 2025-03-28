@@ -1,6 +1,16 @@
-algorithme: presentation d'une persnne;
-afficher("donnez le nom de la personne");
-saisie(nom);
-afficher("donnez le prenom de la personne");
-saisie(prenom);
+algorithme: presentation d'une persnne
+variable
+nom:chaîne
+prenom:chaîne
+âge:entier
+ethnique:chaîne
+paye:chaîne
+nationnalité:chaîne
+
+Debut
+
+afficher("donnez le nom de la personne")
+saisie(nom)
+afficher("donnez le prenom de la personne")
+saisie(prenom)
 
